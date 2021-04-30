@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 const AddPostForm = () => {
 
-    const url = "https://forum-api-jkrop.ondigitalocean.app/category/607fc753282ecd001e7dd1f1/thread";
+    const url = "https://forum-api-jkrop.ondigitalocean.app/category/608bfb0ae747d9001dee9744/thread";
 
 
     const [title, setTitle] = useState('');
